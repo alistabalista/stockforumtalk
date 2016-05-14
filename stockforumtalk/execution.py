@@ -1,0 +1,1 @@
+print u'Bug\xfcn'.encode('utf-8')
